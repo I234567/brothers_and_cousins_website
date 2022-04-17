@@ -6,23 +6,24 @@ html{
 p{
     font-size: xx-large;
 }
+footer{
+    background-color: #be5e5e;
+}
 section {
     background-color: #be5e5e;
     height: 90vh;
     margin:0;
     padding:2.5rem 4rem;
   }
-.social{
-
-
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 #home{
-    text-align: center;
-
+   height: 50vh;
 }
-#Menu{
+#Menu, #home, #location{
 text-align: center;
-}
-#location{
-    text-align: center;
 }

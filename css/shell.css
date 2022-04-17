@@ -1,13 +1,28 @@
 html{
     scroll-behavior: smooth;
+    color:#ffffff;
 
 }
+p{
+    font-size: xx-large;
+}
+section {
+    background-color: #be5e5e;
+    height: 90vh;
+    margin:0;
+    padding:2.5rem 4rem;
+  }
+.social{
 
 
+}
+#home{
+    text-align: center;
 
-.section-1{
-background-image: url("img/menu.jpg");
-background-attachment: fixed;
-background-size: cover;
-width: 100%;
+}
+#Menu{
+text-align: center;
+}
+#location{
+    text-align: center;
 }

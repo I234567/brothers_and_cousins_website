@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+
+}
+
+
+
+.section-1{
+background-image: url("img/menu.jpg");
+background-attachment: fixed;
+background-size: cover;
+width: 100%;
+}

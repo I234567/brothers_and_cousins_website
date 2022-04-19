@@ -3,8 +3,23 @@ html{
     color:#ffffff;
 
 }
+@font-face {
+    font-family:tacofont , tacos;
+    font-display: auto;
+    font-style: normal;
+    src: url("/font/tacoFont.ttf") format("truetype");
+}
 h1{
     font-size: 80px;
+    font-family: tacofont;
+}
+.nav-link , .navbar-text{
+    font-size: 50px;
+    color: #ffffff;
+}
+.navbar-text{
+    margin-left: 65%;
+   color: #ffffff;
 }
 p{
     font-size: xx-large;
@@ -42,6 +57,6 @@ span{
     display: inline-block;
     margin: 0 auto;
 }
-#Menu, #home, #location,#review{
+#Menu, #home, #location,#images{
 text-align: center;
 }
